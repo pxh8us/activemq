@@ -17,6 +17,9 @@ Building
 Examples
 - https://activemq.apache.org/examples.html
 
+Code quality
+https://sonarcloud.io/project/configuration?id=pxh8us_activemq
+
 We welcome contributions of all kinds, for details of how you can help
 https://activemq.apache.org/contributing.html
 
