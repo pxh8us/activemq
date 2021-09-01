@@ -31,6 +31,9 @@
   <inceptionYear>2005</inceptionYear>
 
   <properties>
+    <sonar.organization>pxh8us</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    
     <activeio-version>3.1.4</activeio-version>
     <siteId>activemq-${project.version}</siteId>
     <projectName>Apache ActiveMQ</projectName>
